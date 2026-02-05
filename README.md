@@ -1,6 +1,6 @@
-#This project is a relational database named universe that models astronomical data, developed as part of my computer science curriculum. It focuses on architecting a complex schema and maintaining data integrity using PostgreSQL.
+# This project is a relational database named universe that models astronomical data, developed as part of my computer science curriculum. It focuses on architecting a complex schema and maintaining data integrity using PostgreSQL.
 
-##Project Overview
+## Project Overview
 The goal was to build a structured database from scratch to map galaxies, stars, planets, and moons while meeting strict relational constraints.
 
 Relational Schema: Designed a database with five normalized tables: galaxy, star, planet, moon, and a custom table for additional data.
